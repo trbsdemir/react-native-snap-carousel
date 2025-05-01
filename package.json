@@ -3,6 +3,7 @@
     "version": "3.9.1",
     "description": "Swiper/carousel component for React Native with previews, multiple layouts, parallax images, performant handling of huge numbers of items, and RTL support. Compatible with Android & iOS.",
     "main": "src/index.js",
+    "types": "src/index.d.ts",
     "repository": {
         "type": "git",
         "url": "github.com/meliorence/react-native-snap-carousel"
@@ -37,7 +38,6 @@
     "author": "Meliorence <contact@meliorence.com> (github.com/meliorence)",
     "license": "BSD-3-Clause",
     "dependencies": {
-        "prop-types": "^15.6.1",
         "react-addons-shallow-compare": "15.6.2"
     },
     "peerDependencies": {
